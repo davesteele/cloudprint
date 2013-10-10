@@ -384,8 +384,6 @@ def usage():
     print '-l\t\t: logout of the google account'
     print '-p pid_file\t: path to write the pid to (default cloudprint.pid)'
     print '-a account_file\t: path to google account ident data (default ~/.cloudprintauth)'
-    print '\t\t account_file format:\t <Google username>'
-    print '\t\t\t\t\t <Google password>'
     print '-c\t\t: establish and store login credentials, then exit'
     print '-h\t\t: display this help'
 
